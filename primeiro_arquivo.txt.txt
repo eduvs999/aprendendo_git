@@ -1,0 +1,16 @@
+olá meu nome é josé Eduardo vasconcelos silva
+ 	O que eu aprendi sobre a ultilização do git e git hub
+
+Em resumo Git GitHub serve para conseguirmos trabalhar com um repositorio remoto para um versionamento de código 
+onde vários programadores podem remotamente trabalhar no mesmo código melhorando editando e corrigindo
+principais comandos que aprendi foi:
+
+git clone - para criar uma cópia de uma repositório existente
+git init - para iniciar um reposítorio 
+git status - Para ver se alçgum arquivo foi alterado ou criado
+git diff - para ver o histórico de commits 
+git log - para verificar os commits efetuados de cima para baixo
+
+busquei em outras fontes tambem para ultilização no windows eu ja tinha um repositorio antigo no github quendo eu fazia cursos pela DIO
+comeceia  aultilizar muito o github desktop, porem sei que é sempre bom e importante saber os comandos no git  
+
